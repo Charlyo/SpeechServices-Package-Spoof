@@ -2,14 +2,14 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 
 android {
-    compileSdkVersion 32
+    compileSdkVersion 33
 
     defaultConfig {
         applicationId "com.google.android.tts"
         minSdkVersion 23
-        targetSdkVersion 31
-        versionCode 210345047
-        versionName "1.1"
+        targetSdkVersion 33
+        versionCode 210403527
+        versionName "googletts.google-speech-apk_20221111.00_p4.491700629"
     }
 
     buildTypes {
